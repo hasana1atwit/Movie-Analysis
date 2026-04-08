@@ -12,6 +12,16 @@ A data analysis project exploring key factors that influence a movie's box offic
 This project uses the [Movie Dataset for Analytics and Visualization](https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization) from Kaggle. This is a synthetic dataset containing 999,999 rows and 17 columns​. Movies span from 1950 through 2025​ and across 8 genres​.
 <img width="1795" height="476" alt="dataset ds final proj" src="https://github.com/user-attachments/assets/b17568cb-73a0-4bcb-b6c7-783a69f9f828" />
 
+## Methods
+Here are the tools used to complete the project:
+- Pandas (dataframe access and manipulation)
+- Matplotlib​ (plotting)
+- Seaborn (plotting)
+- Scikit-learn​ (Regression)
+- statsmodels ​(ANOVA)
+- Colab​ (Python coding software)
+- GitHub Repository (organization and README)
+
 ## Results
 1. Does a movie's budget affect its success?​​ Budget strongly predicts both U.S. and global revenue, though hypothesis testing results differed between the two models. It is likely that a higher budget​ corresponds with higher global box office earnings. However, the relationship between budget and U.S. earnings is not statistically significant enough to imply that there is an effect.
 <img width="683" height="627" alt="ds final" src="https://github.com/user-attachments/assets/ee9d1624-925c-4f33-b121-5202b184d02d" />
