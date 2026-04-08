@@ -20,8 +20,10 @@ This project uses the [Movie Dataset for Analytics and Visualization](https://ww
 <img width="1547" height="322" alt="ds final2" src="https://github.com/user-attachments/assets/0b05e710-e610-4d10-a2d6-8abbdb2d1f38" />
 
 3. Do shorter movie titles make more money?​​ A one-way ANOVA test comparing movies title lengths grouped by every 5 characters (1-5, 6-10, ..., 41-45) shows that there is no statistical evidence that says so. ​
+<img width="720" height="72" alt="Screenshot 2026-04-08 134841" src="https://github.com/user-attachments/assets/6cde3e7b-70df-476f-9576-44f178547419" />
 
 4. Does release season affect box office performance?​​ A one-way ANOVA test using movies grouped by release month says there is no statistical evidence that says so. ​
+<img width="671" height="73" alt="Screenshot 2026-04-08 134914" src="https://github.com/user-attachments/assets/0564f489-5367-4aea-9920-d6efbbaad7d7" />
 
 5. Which genre has the most influence on a movie's success?​​ The Drama/Documentary genres have the most profit on average.
 <img width="1139" height="767" alt="Screenshot 2026-04-08 134451" src="https://github.com/user-attachments/assets/d7bce8e0-ef50-4541-8da1-8472cb6ab8bf" />
