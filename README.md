@@ -39,7 +39,23 @@ Here are the tools used to complete the project:
 <img width="1139" height="767" alt="Screenshot 2026-04-08 134451" src="https://github.com/user-attachments/assets/d7bce8e0-ef50-4541-8da1-8472cb6ab8bf" />
 
 ## Discussion
-Many factors showed no statistically significant impact​. Due to the data being randomly generated, the lack of statistically significant relationships suggests that the dataset may not reflect real-world movie dynamics. 
+Many factors showed no statistically significant impact​. Due to the data being randomly generated, the lack of statistically significant relationships suggests that the dataset may not reflect real-world movie dynamics. Other researchers have found:​
+- Film’s production budget is a strong predictor of box office revenue
+(“The Determinants of Box Office Revenue for Motion Pictures”; “The
+Analysis of the Factors that Influence the Film Revenue”).​
+- Domestic box office performance is strongly correlated with revenue
+generation (“Determinants of Box Office Performance”).​
+- No consistent evidence that shorter title leads to higher earnings (“The
+Impact of Movie Titles on Box Office Success”).​
+- Films released during peak seasons, such as summer and major
+holidays, tend to achieve higher revenues due to increased audience
+availability and demand (“Revisiting Predictions of Movie Economic
+Success”).​
+- A genre’s profitability depends on its popularity during a specific
+period (“Investigation of Time Series-Based Genre Popularity Features for
+Movie Profitability”).
+
+In future research on this topic, it would be favorable to consider real industry data, such as from IMDb. This would give insight into cast popularity​, director, audience ratings, and critic scores​. More advanced machine learning models could also be useful, such as multiple linear regression​, random forest​, and time-series analysis.​
 
 ## Summary
 Assuming that the dataset is an appropriate measure of real-life movie box office earnings, one may conclude that the most successful movies consist of the following characteristics:
